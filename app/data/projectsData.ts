@@ -131,10 +131,10 @@ export const projectsData: Project[] = [
   {
     id: 16,
     title: "Mid Pro",
-    category: "Next.js",
+    category: "WordPress",
     image: "/photo/my-work/ميد برو.png",
     link: "https://medproco.com/",
-    methodology: "Next.js"
+    methodology: "WordPress"
   },
   {
     id: 17,
@@ -191,5 +191,13 @@ export const projectsData: Project[] = [
     image: "/photo/my-work/اسهل.png",
     link: "https://ashal-kw.com/",
     methodology: "WordPress"
-  }
+  },
+  {
+    id: 24,
+    title: "Hagar Portfolio",
+    category: "Next.js",
+    image: "/photo/my-work/Hagar-Portfolio.png",
+    link: "https://hagar-portfolio-zeta.vercel.app/",
+    methodology: "Next.js"
+  },
 ];
